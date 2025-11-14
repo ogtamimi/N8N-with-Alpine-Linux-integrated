@@ -122,3 +122,4 @@ npm install axios
 The environment is fully expandable without rebuilding the image.
 
 ---
+You can skip all these steps and install it with this PowerShell Command  : docker push ogtamimi/ogt-pen-test-system:v1
